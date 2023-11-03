@@ -6,8 +6,7 @@ This project was created as part of my learning journey to explore the capabilit
 
 ## Features
 
-- **Authentication**: Secure login system with NextAuth.js.
-- **Authorization**: Role-based access control.
+- **Authentication and Authorization**: Secure login system with NextAuth.js.
 - **Invoices**: Create, edit, and manage invoices.
 - **Statistics**: Display real-time data insights.
 
